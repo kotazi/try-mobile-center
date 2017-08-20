@@ -14,6 +14,7 @@ import {
 } from 'react-native';
 import Analytics from "mobile-center-analytics";
 import Crashes from "mobile-center-crashes";
+import codePush from "react-native-code-push";
 
 export default class TryMobileCenter extends Component {
 
@@ -69,4 +70,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('TryMobileCenter', () => TryMobileCenter);
+AppRegistry.registerComponent('TryMobileCenter', () => codePush(TryMobileCenter));
