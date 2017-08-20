@@ -12,21 +12,84 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_017fe09213c5736505dfa19e51e8069efa661eb5.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_545628fc3aa5b12900034268f881442de17d75c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c427ac4cf6f6b8e1c16ecc0b5b196df3a4ebf6ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b337edfa83d7556c5f8febb9a370a8136e72ad0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_9661d0c0c2f0dbe17c8fdaa9a7202086f3a602bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c260f51e76d3228f8d60154911adfca54807a654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ecfa024957554ea29aa85122137760b8bcc026b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile.react/mobile-center-react-native/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="668cbee9e88a75aa74c164497f618d12236004eb">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile.react-mobile-center-react-native-0.8.1_43c9c8b130288db8cf8a88233486b9493a82dd7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_eb11990a9bf02a6d1a53819a6d333bf1962ae3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_017fe09213c5736505dfa19e51e8069efa661eb5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,15 +111,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c427ac4cf6f6b8e1c16ecc0b5b196df3a4ebf6ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,30 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b337edfa83d7556c5f8febb9a370a8136e72ad0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_252bf1383e73bde38e6cdb0ef6baa169789a3305.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_9661d0c0c2f0dbe17c8fdaa9a7202086f3a602bf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,24 +162,6 @@
         revision="23.0.1"
         sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_3f26129fe41035cc0360175c8eed12d179096d8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_c260f51e76d3228f8d60154911adfca54807a654.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kotazi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ecfa024957554ea29aa85122137760b8bcc026b1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,30 +210,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile.react/mobile-center-react-native/0.8.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="668cbee9e88a75aa74c164497f618d12236004eb">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile.react-mobile-center-react-native-0.8.1_43c9c8b130288db8cf8a88233486b9493a82dd7f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_8d44d4bfb3037dd877dd1c45d7300a6da086cd5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="576b5113887747a7592650ae14d980e1c57983c4">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_eb11990a9bf02a6d1a53819a6d333bf1962ae3a3.jar" />
     </item>
     <item
         is-multidex="false"
