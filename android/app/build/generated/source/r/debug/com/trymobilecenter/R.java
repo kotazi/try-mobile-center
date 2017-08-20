@@ -2017,6 +2017,7 @@ containing a value of this type.
         public static final int catalyst_settings=0x7f070027;
         public static final int catalyst_settings_title=0x7f070028;
         public static final int mobileCenterAnalytics_whenToEnableAnalytics=0x7f070029;
+        public static final int mobileCenterCrashes_whenToSendCrashes=0x7f07002a;
         public static final int status_bar_notification_info_overflow=0x7f070011;
     }
     public static final class style {

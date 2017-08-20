@@ -13,11 +13,19 @@ import {
   Button
 } from 'react-native';
 import Analytics from "mobile-center-analytics";
+import Crashes from "mobile-center-crashes";
 
 export default class TryMobileCenter extends Component {
 
   _onClick() {
     Analytics.trackEvent('clicked', { Category: 'button', Type: 'test'});
+  }
+
+  _onClickCrash() {
+    const hoge = Crashes;
+    console.log(hoge);
+    debugger
+    Crashes.generateTestCrash();
   }
 
   render() {
@@ -34,7 +42,12 @@ export default class TryMobileCenter extends Component {
           Double tap R on your keyboard to reload,{'\n'}
           Shake or press menu button for dev menu
         </Text>
-        <Button onPress={this._onClick} title="Track event" />
+        <View style={{marginTop: 10}}>
+          <Button onPress={this._onClick} title="Track event"/>
+        </View>
+        <View style={{marginTop: 10}}>
+          <Button onPress={this._onClickCrash} title="Test Crash" />
+        </View>
       </View>
     );
   }

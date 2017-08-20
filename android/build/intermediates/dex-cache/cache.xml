@@ -165,12 +165,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center-crashes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae28e42cc8d52f808f6a14d80906d9bb52a630ba">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/TryMobileCenter-mobile-center-crashes-unspecified_23f5c7416b0f0e9b61fbed5a6401afc00c3831c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kotazi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_d5a28ea7b58d8427d8195dde0081094502dff575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-crashes/0.11.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="825a749d00368b0cc98451c81b5f98bd6d4b5bd2">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-crashes-0.11.2_5894b591e423c0c9674a765f61fac1788d0ed96f.jar" />
     </item>
     <item
         is-multidex="false"

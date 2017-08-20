@@ -656,6 +656,7 @@ int string catalyst_report_button 0x7f070026
 int string catalyst_settings 0x7f070027
 int string catalyst_settings_title 0x7f070028
 int string mobileCenterAnalytics_whenToEnableAnalytics 0x7f070029
+int string mobileCenterCrashes_whenToSendCrashes 0x7f07002a
 int string status_bar_notification_info_overflow 0x7f070011
 int style AlertDialog_AppCompat 0x7f09007a
 int style AlertDialog_AppCompat_Light 0x7f09007b

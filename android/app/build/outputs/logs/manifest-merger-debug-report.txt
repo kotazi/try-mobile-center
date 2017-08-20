@@ -27,6 +27,8 @@ MERGED from [com.facebook.react:react-native:0.47.1] /Users/kotazi/Repositories/
 		ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [TryMobileCenter:mobile-center-crashes:unspecified] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center-crashes/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center-crashes:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-crashes/0.11.2/AndroidManifest.xml:8:5-10:41
 MERGED from [TryMobileCenter:mobile-center-analytics:unspecified] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center-analytics/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.microsoft.azure.mobile:mobile-center-analytics:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-analytics/0.11.2/AndroidManifest.xml:8:5-10:41
 MERGED from [TryMobileCenter:mobile-center:unspecified] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center/unspecified/AndroidManifest.xml:7:5-9:41
