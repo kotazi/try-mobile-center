@@ -2865,6 +2865,12 @@ mobile-center-link-scripts@0.8.1:
     which "^1.2.11"
     xcode "^0.8.9"
 
+mobile-center-push@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/mobile-center-push/-/mobile-center-push-0.8.1.tgz#106d88f4260cbbc5177a4fc9c58f4e694006fd50"
+  dependencies:
+    mobile-center "0.8.1"
+
 mobile-center@0.8.1, mobile-center@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/mobile-center/-/mobile-center-0.8.1.tgz#fe43341ba1ac72b23a321cc749509e2ca4efc5f2"

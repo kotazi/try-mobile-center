@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836173221013",
+    "firebase_url": "https://try-mobile-center.firebaseio.com",
+    "project_id": "try-mobile-center",
+    "storage_bucket": "try-mobile-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836173221013:android:122d1559f728d4a1",
+        "android_client_info": {
+          "package_name": "com.trymobilecenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836173221013-q5ue9e4a3v28kc6ihvoic0ootagak8ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trymobilecenter",
+            "certificate_hash": "0aa4c8ef79a78611d6483b6f778b325b1ec56779"
+          }
+        },
+        {
+          "client_id": "836173221013-9m39ihqllafbbphapj06rqmf3vqs092m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq37V7gD41Aao2yzNDt_HxAtPg9hDiEkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836173221013-9m39ihqllafbbphapj06rqmf3vqs092m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
