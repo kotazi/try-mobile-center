@@ -17,6 +17,7 @@ ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/ma
 		ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -26,6 +27,11 @@ MERGED from [com.facebook.react:react-native:0.47.1] /Users/kotazi/Repositories/
 		ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [TryMobileCenter:mobile-center-analytics:unspecified] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center-analytics/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center-analytics:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-analytics/0.11.2/AndroidManifest.xml:8:5-10:41
+MERGED from [TryMobileCenter:mobile-center:unspecified] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile.react:mobile-center-react-native:0.8.1] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile.react/mobile-center-react-native/0.8.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure.mobile:mobile-center:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.47.1] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
@@ -86,6 +92,10 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:29:7-84
 	android:name
 		ADDED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:29:17-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.azure.mobile:mobile-center:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.microsoft.azure.mobile:mobile-center:0.11.2] /Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/AndroidManifest.xml:12:22-76
 android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/kotazi/Repositories/open8/try-mobile-center/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_PHONE_STATE
