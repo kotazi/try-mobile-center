@@ -1,4 +1,4 @@
-#Sun Aug 20 13:28:58 JST 2017
+#Sun Aug 20 17:34:39 JST 2017
 base.0=/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

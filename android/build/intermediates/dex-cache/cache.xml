@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_8ee441a481070b19c24241d0645a413625376b40.jar" />
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.2_ec4eacfbcd64fe9c86c2ca50f751d8bd5bc5925b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,12 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/kotazi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c427ac4cf6f6b8e1c16ecc0b5b196df3a4ebf6ed.jar" />
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_a3f8f9e8e8c97648b0f04053becd105a7a6d9cfc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,6 +48,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_e06aaf83e4b2dde4c9901c9e513575bc22700cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.2_0313387af0590d09b7f1916df17d695ae2efb934.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -63,6 +81,15 @@
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ecfa024957554ea29aa85122137760b8bcc026b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_61c72b3a163948f206f7f2d3154f8360f77b658b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.2_2895e55c936d88ad148801716a372fafcb57be1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,12 +138,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.2_24327755b27950908469f99885b6b655fb80993b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="de4c9180f4e0059276f656a0bdf49c0b5ca1ea4c">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/TryMobileCenter-mobile-center-unspecified_5758931713c60a42c22abc0a89873be5afffb3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/TryMobileCenter/mobile-center-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4806d6f7c58834da689f2dd218767442f4b6c4fe">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/TryMobileCenter-mobile-center-push-unspecified_9600f32d902519524e8b62b0897cbf36cd3fc60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_303f9ad8af20462f16edeb18344cbae045933d2d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,15 +201,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="91ad7715501c7fe299017a04077e678a1c9543ff">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-0.11.2_19ec8df17d2f6d265cde580e33342d00e71a4b05.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -156,12 +210,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.11.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="91ad7715501c7fe299017a04077e678a1c9543ff">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-0.11.2_19ec8df17d2f6d265cde580e33342d00e71a4b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_3f26129fe41035cc0360175c8eed12d179096d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_e3f23d579f682e347859c589be8558ae0abdb9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-push/0.11.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ce9b317ace18d0e89121312125a95f4bba7f217">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-push-0.11.2_08728904fe0ef9ea6506131713285acb3b35e651.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,12 +273,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/kotazi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_d5a28ea7b58d8427d8195dde0081094502dff575.jar" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_a3e3c518e419652be4a4abac7068de8cd9878099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.2_f996aab373b522ee4ae98947007a897a14650c3d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -207,6 +297,15 @@
         revision="23.0.1"
         sha1="825a749d00368b0cc98451c81b5f98bd6d4b5bd2">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-crashes-0.11.2_5894b591e423c0c9674a765f61fac1788d0ed96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.2_47ed43fe55e5695c183d54b17b257ba8962ed71b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -243,6 +342,24 @@
         revision="23.0.1"
         sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
         <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_ebf70ab29b730989c32174b69d16da84040fe3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_d2f561b77d7bb53e5cb4d2fb4f06fcbd3ec8b6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Users/kotazi/Repositories/open8/try-mobile-center/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.2_9e896f0298c340351ff5d232ce00ef7c847e6c26.jar" />
     </item>
     <item
         is-multidex="false"
