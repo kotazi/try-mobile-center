@@ -2841,6 +2841,12 @@ minimist@^1.1.0, minimist@^1.1.1, minimist@^1.2.0:
   dependencies:
     minimist "0.0.8"
 
+mobile-center-analytics@^0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/mobile-center-analytics/-/mobile-center-analytics-0.8.1.tgz#94ae04e7cf6adaa775c8972110137a156474a62d"
+  dependencies:
+    mobile-center "0.8.1"
+
 mobile-center-link-scripts@0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/mobile-center-link-scripts/-/mobile-center-link-scripts-0.8.1.tgz#b35749c20d2b2db56f4bd3915d6e68ea58a9755e"
@@ -2853,7 +2859,7 @@ mobile-center-link-scripts@0.8.1:
     which "^1.2.11"
     xcode "^0.8.9"
 
-mobile-center@^0.8.1:
+mobile-center@0.8.1, mobile-center@^0.8.1:
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/mobile-center/-/mobile-center-0.8.1.tgz#fe43341ba1ac72b23a321cc749509e2ca4efc5f2"
   dependencies:
